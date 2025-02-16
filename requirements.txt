@@ -2,6 +2,7 @@ numpy
 pandas
 opencv-python
 matplotlib
+groq
 scipy
 scikit-learn
 tensorflow
